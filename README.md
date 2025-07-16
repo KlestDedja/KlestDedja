@@ -8,8 +8,6 @@ I have explored **Random Forests** extensively, as their inherent structure prov
 
 - I am currently working at **[Predikt](https://predikt.ai/)**, a young, innovative start-up dedicated to advancing **time-series forecasting** for CFOs and finance leaders. We are developing AI-driven tools that bring confidence and trust to forecasting processes, helping finance teams make more informed, data-backed decisions.
 
-  Interested in learning more about our product? Then you should reach out to our CEO **[Nick Vandesype](https://www.linkedin.com/in/nickvandesype/)** on LinkedIn.
-
 - I am maintaining a project from my PhD years, namely **[BELLATREX](https://github.com/klest94/bellatrex)**: an open-access [pip package](https://pypi.org/project/bellatrex/) designed to support adoption and transparency of **Random Forest** models for several prediction tasks: binary classification, regression, survival-analysis, multi-lablel classification, and multi-target regression.
 
   Do you like BELLATREX? I am looking to collaborate with researchers or practitioners to make BELLATREX better! If you have fresh ideas, feature requests, or are interested in contributing to new functionalities, I’d love to connect 😊.
