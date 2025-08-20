@@ -25,4 +25,4 @@ Alongisde this, I explored the intersection of **Active Learning** and **Surviva
 
 ### 📫 How to reach me:
 
--You find me on LinkedIn: [Klest Dedja](https://www.linkedin.com/in/klest-dedja/). Please mention that you found me though the GitHub page if that was the case.
+You find me on LinkedIn: [Klest Dedja](https://www.linkedin.com/in/klest-dedja/). Please mention that you found me though the GitHub page if that was the case.
