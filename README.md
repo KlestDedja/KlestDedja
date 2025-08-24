@@ -10,6 +10,9 @@ Additionally, I explored the intersection of **Active Learning** and **Survival 
 
 The combination of deep theoretical expertise in AI related fields, paired with 7+ years of programming has made me a strong and curious Data Scientist (assuming we agree on the meaning of this term).
 
+<p align="center">
+  <img src="https://github.com/Klest94/klest94-profile/skills-chart-profile.png" alt="Skills Map"/>
+</p>
 
 ### 🏭 Industry experience:
 - I have worked at **[Predikt](https://predikt.ai/)**, a young, innovative start-up dedicated to advancing **time-series forecasting** for CFOs and finance leaders. Predikt is developing AI-driven tools that bring confidence and trust to forecasting processes, helping CFOs and finance leaders make more informed, data-backed decisions.
