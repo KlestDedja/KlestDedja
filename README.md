@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Klest Dedja
+I'm Klest Dedja,
 
 Passionate about mathematics, my background bridges **Applied Mathematics** and **Machine Learning**.
 During my PhD at **KULeuven**  under the supervision of Prof. [Celine Vens](https://kulak.kuleuven.be/~celine.vens/index.html) I specialized **Explainable AI** for **Survival Analysis** tasks (time-to-event in the presence of partial information) with applications in healthcare (Multiple Sclerosis, kidney function, etc.).
