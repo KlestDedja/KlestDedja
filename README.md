@@ -11,7 +11,7 @@ Additionally, I explored the intersection of **Active Learning** and **Survival 
 The combination of deep theoretical expertise in AI related fields, paired with 7+ years of programming has made me a strong and curious Data Scientist (assuming we agree on the meaning of this term).
 
 <p align="center">
-  <img src="https://github.com/KlestDedja/klestdedja/tree/main/assets/skills-chart-profile.png" alt="Skills Map"/>
+  <img src="assets/skills-chart-profile.png" alt="Skills Map"/>
 </p>
 
 ### 🏭 Industry experience:
