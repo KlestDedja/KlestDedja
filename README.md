@@ -2,8 +2,8 @@
 
 I'm Klest Dedja
 
-Born as a mathematician, my background bridges **Applied Mathematics** and **Machine Learning**, with focus on making "black-box" models interpretable for decision-making with **Explainable AI**.
-During my PhD at **KULeuven (KULAK)**  under the supervision of Prof. [Celine Vens](https://kulak.kuleuven.be/~celine.vens/index.html) I specialized on Explainable AI for **Survival Analysis** tasks (time-to-event in the presence of partial information) with applications in healthcare (Multiple Sclerosis, kidney function, etc.).
+Passionate about mathematics, my background bridges **Applied Mathematics** and **Machine Learning**.
+During my PhD at **KULeuven**  under the supervision of Prof. [Celine Vens](https://kulak.kuleuven.be/~celine.vens/index.html) I specialized **Explainable AI** for **Survival Analysis** tasks (time-to-event in the presence of partial information) with applications in healthcare (Multiple Sclerosis, kidney function, etc.).
 I have explored **Random Forests** extensively, as their inherent structure provides both flexibility in predictive modeling and potential pathways to interpretability.
 
 Additionally, I explored the intersection of **Active Learning** and **Survival Analysis**, with findings and tested approaches shown in this little [project](https://github.com/Klest94/AL-SA-paper-material). You can find my PhD dissertation [here](https://lirias.kuleuven.be/retrieve/dff3deaa-efd3-45e2-833c-e6db47d88434).
