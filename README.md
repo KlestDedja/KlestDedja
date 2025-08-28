@@ -8,7 +8,7 @@ I have explored **Random Forests** extensively, as their inherent structure prov
 
 Additionally, I explored the intersection of **Active Learning** and **Survival Analysis**, with findings and tested approaches shown in this little [project](https://github.com/kLestdedja/AL-SA-paper-material). You can find my PhD dissertation [here](https://lirias.kuleuven.be/retrieve/dff3deaa-efd3-45e2-833c-e6db47d88434).
 
-The combination of deep theoretical expertise in AI related fields, paired with 7+ years of programming has made me a strong and curious Data Scientist (assuming we agree on the meaning of this term).
+The combination of deep theoretical expertise in AI related fields, paired with 7+ years of programming has made me a strong and curious Data Scientist.
 
 <p align="center">
   <img src="assets/skills-chart-profile.png" alt="Skills Map"/>
