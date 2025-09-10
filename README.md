@@ -3,19 +3,24 @@
 I'm Klest Dedja,
 
 Passionate about mathematics, my background bridges **Applied Mathematics** and **Machine Learning**.
-During my PhD at **KULeuven**  under the supervision of Prof. [Celine Vens](https://kulak.kuleuven.be/~celine.vens/index.html) I specialized **Explainable AI** for **Survival Analysis** tasks (time-to-event in the presence of partial information) with applications in healthcare (Multiple Sclerosis, kidney function, etc.).
+
+### 🧑‍🔬💻 Research experience:
+
+During my PhD at **KU Leuven**  under the supervision of Prof. [Celine Vens](https://kulak.kuleuven.be/~celine.vens/index.html) I specialized **Explainable AI** for **Survival Analysis** tasks (time-to-event in the presence of partial information) with applications in healthcare (Multiple Sclerosis, kidney function, etc.).
 I have explored **Random Forests** extensively, as their inherent structure provides both flexibility in predictive modeling and potential pathways to interpretability.
 
-Additionally, I explored the intersection of **Active Learning** and **Survival Analysis**, with findings and tested approaches shown in this little [project](https://github.com/kLestdedja/AL-SA-paper-material). You can find my PhD dissertation [here](https://lirias.kuleuven.be/retrieve/dff3deaa-efd3-45e2-833c-e6db47d88434).
+Additionally, I reseached into the intersection of **Active Learning** and **Survival Analysis**, with findings and tested approaches shown in this little [project](https://github.com/kLestdedja/AL-SA-paper-material). You can find my PhD dissertation [here](https://lirias.kuleuven.be/retrieve/dff3deaa-efd3-45e2-833c-e6db47d88434).
 
-The combination of deep theoretical expertise in AI related fields, paired with 7+ years of programming has made me a strong and curious Data Scientist.
-
-<p align="center">
-  <img src="assets/skills-chart-profile.png" alt="Skills Map"/>
-</p>
 
 ### 🏭 Industry experience:
 - I have worked at **[Predikt](https://predikt.ai/)**, a young, innovative start-up dedicated to advancing **time-series forecasting** for CFOs and finance leaders. Predikt is developing AI-driven tools that bring confidence and trust to forecasting processes, helping CFOs and finance leaders make more informed, data-backed decisions.
+
+
+The combination of deep theoretical expertise, experience in the startup world, and 7+ years of programming has made me a strong and curious Data Scientist.
+
+<p align="center">
+  <img src="assets/skills-chart-profile.png" alt="Skills Map" width="50%"/>
+</p>
 
 ### 🔭 Current Projects
 
