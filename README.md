@@ -36,4 +36,4 @@ The combination of deep theoretical expertise, experience in the startup world, 
 
 ### 📫 How to reach me:
 
-You find me on LinkedIn: [Klest Dedja](https://www.linkedin.com/in/klest-dedja/). Please mention that you found me though the GitHub page if that was the case.
+You can find me on LinkedIn: [Klest Dedja](https://www.linkedin.com/in/klest-dedja/).
