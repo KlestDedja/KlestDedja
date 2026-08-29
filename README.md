@@ -15,7 +15,7 @@ Another significant part of my PhD involved **biomedical applications**, includi
 
 A smaller part of my PhD explored the intersection of **Active Learning** and **Survival Analysis**. This topic was part of the original project description, so I dutifully executed. There certainly is still plenty of methodological room to explore, but I am less convinced about the practical demand for such a niche combination. The resulting experiments and approaches are available in this [repository](https://github.com/kLestdedja/AL-SA-paper-material).
 
-You can find my PhD dissertation [here](https://lirias.kuleuven.be/retrieve/dff3deaa-efd3-45e2-833c-e6db47d88434).
+More about these projects, and how they cross-influence each other, can be found in my dissertation [here](https://lirias.kuleuven.be/retrieve/dff3deaa-efd3-45e2-833c-e6db47d88434).
 
 Finally, an unexpected side quest of my PhD involved automatically measuring fiber alignment in bio-artificial muscles, which gave me a hands-on familiarity to **Computer Vision** and image-processing techniques. I can't share the resulting repository yet as the associated paper is under review, but I can say that another Python package is almost ready for release ;-) . It is worth noting that this project sits in a more crowded problem space, with several existing tools already addressing similar tasks. For that reason, I see this project more as a successful technical excursion than something I plan to actively develop further.
 
