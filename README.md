@@ -2,7 +2,7 @@
 
 I'm Klest Dedja, a Data Scientist with a background spanning **Applied Mathematics**, **Machine Learning**, and **Software Development**.
 
-Coming from a background in mathematics, my carrer gradually moved me towards Computer Science and applied AI. My experience now covers **Explainable AI**, **Survival Analysis**, **Time-series forecasting**, **Financial Engineering**, **Computer Vision**, and end-to-end **software development**.
+Coming from a background in mathematics, my carrer gradually moved me towards Computer Science and applied AI. My experience now covers **explainable AI**, **survival analysis**, **time-series forecasting**, **financial engineering**, **computer vision**, and end-to-end **software development**.
 
 ### 🏭 Industry experience:
 
@@ -12,17 +12,17 @@ Before that, I have worked at **[Predikt](https://predikt.ai/)**, a start-up ded
 
 ### 🧑‍🔬💻 Research experience:
 
-During my PhD at **KU Leuven**  under the supervision of Prof. [Celine Vens](https://kulak.kuleuven.be/~celine.vens/index.html) I specialized in **Explainable AI** for **Survival Analysis**, where the predictive models and their explanations must account for partially observed time-to-event outcomes. My research focused particularly on healthcare applications, including Multiple Sclerosis, and kidney function prediction.
+During my PhD at **KU Leuven**  under the supervision of Prof. [Celine Vens](https://kulak.kuleuven.be/~celine.vens/index.html) I specialized in **explainable AI** for survival analysis, where the predictive models and their explanations must account for partially observed time-to-event outcomes. My research focused particularly on healthcare applications, including Multiple Sclerosis, and kidney function prediction.
 
-The main thread of my PhD was the combination of **Random Forests** and **Explainable AI**, and this eventually grew into [BELLATREX](https://github.com/klestdedja/bellatrex). This is the project I am most proud of from my PhD years: something impactful and re-usable I left behind for the research group and to all interested researchers. BELLATREX is now an open-source Python package that is easy to use and has been downlaoded thousands of times, and I still enjoy working on it in my free time, following how people are picking it up and pushing it further.
+The main thread of my PhD was the combination of **random forests** and explainable AI, and this eventually grew into [BELLATREX](https://github.com/klestdedja/bellatrex). This is the project I am most proud of from my PhD years: something impactful and re-usable I left behind for the research group and to all interested researchers. BELLATREX is now an open-source Python package that is easy to use and has been downlaoded thousands of times, and I still enjoy working on it in my free time, following how people are picking it up and pushing it further.
 
 Another significant part of my PhD involved **biomedical applications**, including Multiple Sclerosis and Acute Kidney Injury prediction. I could incorporate clinical context to enhance the accuracy of Machine Learning models. Just as importantly, I valued the (alas, occasional) close collaboration with neurologists, urologists, and intensive-care physicians, and acted as a bridge between my computer-science peers and the clinicians.
 
-A smaller part of my PhD explored the intersection of **Active Learning** and **Survival Analysis**. There is certainyl still plenty of methodological room to explore, but I am less convinced about the practical demand for such a niche combination. The resulting experiments and approaches are available in this [repository](https://github.com/kLestdedja/AL-SA-paper-material).
+A smaller part of my PhD explored the intersection of **active learning** and **survival analysis**. There is certainyl still plenty of methodological room to explore, but I am less convinced about the practical demand for such a niche combination. The resulting experiments and approaches are available in this [repository](https://github.com/kLestdedja/AL-SA-paper-material).
 
 More about these projects, and how they cross-influence each other, can be found in my dissertation [here](https://lirias.kuleuven.be/retrieve/dff3deaa-efd3-45e2-833c-e6db47d88434).
 
-Finally, an unexpected side quest of my PhD involved automatically measuring fiber alignment in bio-artificial muscles, which gave me a hands-on familiarity to **Computer Vision** and image-processing techniques. The associated paper is under review, and another Python package is almost ready for release 😉. I see this project more as a successful technical excursion than something I plan to actively develop further.
+Finally, an unexpected side quest of my PhD involved automatically measuring fiber alignment in bio-artificial muscles, which gave me a hands-on familiarity to **computer vision** and image-processing techniques. The associated paper is under review, and another Python package is almost ready for release 😉. I see this project more as a successful technical excursion than something I plan to actively develop further.
 
 
 <p align="center">
