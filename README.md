@@ -6,7 +6,7 @@ Coming from a background in mathematics, my carrer gradually moved me towards Co
 
 ### 🏭 Industry experience:
 
-I am currently a Data Scientist at CGI's [SmartLab](https://www.cgi.com/nl/nl/smartlab), where my role has expanded well beyond what we would have called "Data Science" a few years ago. Depending on the project, I may find myself working on **system-prompt engineering**, building automated **evaluations for LLM behaviour and alignment**, or upgrading the **front-end** (React is beautiful, damn!).
+I am currently a Data Scientist at CGI's [SmartLab](https://www.cgi.com/nl/nl/smartlab), where my role has expanded well beyond what we would have called "Data Science" a few years ago. Depending on the project, I may find myself working on **system-prompt engineering**, building automated **evaluations for LLM alignment**, or upgrading the **front-end** (React is beautiful, damn!).
 
 Before that, I have worked at **[Predikt](https://predikt.ai/)**, a start-up dedicated (at the time) to advancing **time-series forecasting** for CFOs and finance leaders. Working in a dynamic environment gave me my first real exposure to a sizeable existing codebase, including the less glamorous but very educational task of understanding, disentangling, and extending software that I had not designed myself.
 
