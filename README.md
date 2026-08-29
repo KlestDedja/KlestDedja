@@ -12,7 +12,7 @@ Before that, I have worked at **[Predikt](https://predikt.ai/)**, a start-up ded
 
 ### 🧑‍🔬💻 Research experience:
 
-During my PhD at **KU Leuven**  under the supervision of Prof. [Celine Vens](https://kulak.kuleuven.be/~celine.vens/index.html) I specialized in **explainable AI** for survival analysis, where the predictive models and their explanations must account for partially observed time-to-event outcomes. My research focused particularly on healthcare applications, including Multiple Sclerosis, and kidney function prediction.
+During my PhD at **KU Leuven**  under the supervision of Prof. [Celine Vens](https://kulak.kuleuven.be/~celine.vens/index.html) I specialized in **explainable AI** for survival analysis, where the predictive models and their explanations must account for partially observed time-to-event outcomes.
 
 The main thread of my PhD was the combination of **random forests** and explainable AI, and this eventually grew into [BELLATREX](https://github.com/klestdedja/bellatrex). This is the project I am most proud of from my PhD years: something impactful and re-usable I left behind for the research group and to all interested researchers. BELLATREX is now an open-source Python package that is easy to use and has been downlaoded thousands of times, and I still enjoy working on it in my free time, following how people are picking it up and pushing it further.
 
