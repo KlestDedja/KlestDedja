@@ -8,7 +8,7 @@ Coming from mathematics, my career gradually moved me towards Computer Science a
 
 I am currently a Data Scientist at CGI's [SmartLab](https://www.cgi.com/nl/nl/smartlab), where my role has expanded well beyond what we would have called "Data Science" a few years ago: depending on the project, I may find myself working on **retrieval and system-prompt engineering**, building automated **evaluations for LLM alignment**, or upgrading the **React front-end** of an enterprise RAG application.
 
-Before that, I worked as an AI Research Engineer at **[Predikt](https://predikt.ai/)**, a start-up dedicated (at the time) to advancing **time-series forecasting** for CFOs and finance leaders. Working in a dynamic environment gave me my first real exposure to a sizeable existing codebase, challenging me to understand, disentangle, and extend it. I translated forecasting questions into technical specifications and structured experiments, improved model accuracy by **7%** through clever regularization tricks, and built uncertainty estimates using **conformal prediction**.
+Before that, I worked as an AI Research Engineer at **[Predikt](https://predikt.ai/)**, a start-up dedicated (at the time) to advancing **time-series forecasting** for CFOs and finance leaders. Working in a dynamic environment gave me my first real exposure to a sizeable existing codebase, challenging me to understand, disentangle, and extend it. I translated forecasting questions into technical specifications and structured experiments, improved model accuracy through clever regularization tricks, and built uncertainty estimates using **conformal prediction**.
 
 ### 🧑‍🔬💻 The research-to-real-world route
 
