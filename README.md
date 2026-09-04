@@ -44,7 +44,7 @@ More about these projects, and how they cross-influence each other, can be found
 
 ### 🌍 Beyond the job title
 
-I am a mathematician by training, a multilingual European, and an enthusiastic language learner. I enjoy mentoring, collaborating across technical and domain boundaries, and making complex ideas easier to use.
+I am a mathematician by training, a multilingual European <img src="https://flagcdn.com/20x15/eu.png" width="20" height="15" alt="EU flag">, and an enthusiastic language learner. I enjoy mentoring, collaborating across technical and domain boundaries, and making complex ideas easier to use.
 
 ### 📫 How to reach me
 
