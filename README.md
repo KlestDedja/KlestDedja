@@ -1,59 +1,50 @@
-# Hi there 👋
+# Hi, I'm Klest Dedja 👋
 
-I'm Klest Dedja, an **Applied AI and Machine Learning Engineer** with a background spanning **Applied Mathematics**, **Machine Learning**, and **Software Development**.
 
-Coming from mathematics, my career gradually moved me towards Computer Science and applied AI. These days, I especially enjoy the space between an interesting technical problem and a system that people can actually use: understanding the problem, testing what works, and turning the result into maintainable software.
+With a background in Mathematics, I gradually specialized  towards Software Development and Applied AI. These days, I especially enjoy the space between an interesting technical problem and a system that people can actually use, and I do so by building industry grade AI applications and by maintaining open-source research software.
 
-## 🏭 Industry experience
+[![Portfolio](https://img.shields.io/badge/Portfolio-klestdedja.github.io-2563eb?style=flat-square&logo=githubpages&logoColor=white)](https://klestdedja.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Klest_Dedja-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/klest-dedja/)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Publications-4285f4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=SWJ2Y2cAAAAJ)
 
-I am currently a Data Scientist at CGI's [SmartLab](https://www.cgi.com/nl/nl/smartlab), where my role has expanded well beyond what we would have called "Data Science" a few years ago: depending on the project, I may find myself working on **retrieval and system-prompt engineering**, building automated **evaluations for LLM alignment**, or upgrading the **React front-end** of an enterprise RAG application.
+My expetise includes financial engineering, machine learning, and software development. I currently work across enterprise RAG, LLM evaluation, retrieval, and application delivery; previously, I built and evaluated forecasting systems. For the fuller story about my work and background, visit **[my portfolio website](https://klestdedja.github.io/)**.
 
-Before that, I worked as an AI Research Engineer at **[Predikt](https://predikt.ai/)**, a start-up dedicated (at the time) to advancing **time-series forecasting** for CFOs and finance leaders. Working in a dynamic environment gave me my first real exposure to a sizeable existing codebase, challenging me to understand, disentangle, and extend it. I translated forecasting questions into technical specifications and structured experiments, improved model accuracy through clever regularization tricks, and built uncertainty estimates using **conformal prediction**.
+## Featured software
 
-## 🧑‍🔬💻 The research-to-real-world route
+### [BELLATREX](https://github.com/KlestDedja/Bellatrex) · [PyPI](https://pypi.org/project/bellatrex/)
 
-During my PhD at **KU Leuven**, under the supervision of Prof. [Celine Vens](https://kulak.kuleuven.be/~celine.vens/index.html), I specialised in **explainable AI** and **survival analysis**, where predictive models and their explanations must account for partially observed time-to-event outcomes.
+An explainable-AI Python package that turns Random Forest predictions into a small set of representative rules. It supports classification, regression, survival analysis, multi-label, and multi-target problems.
 
-The main thread of my PhD was the combination of **random forests** and explainable AI, and this eventually grew into [BELLATREX](https://github.com/KlestDedja/Bellatrex). This is the project I am most proud of from my PhD years: something impactful and reusable I left behind for the research group and to all interested researchers. BELLATREX is now an open-source Python package that is easy to use, has been evaluated across 89 datasets and downloaded thousands of times, and I still enjoy working on it in my free time, following how people are picking it up and pushing it further.
+- Evaluated across 89 datasets
+- Packaged and released on PyPI
+- Maintained with tests, documentation, tutorials, and GitHub Actions
+- Open to feature ideas and contributions
 
-Another significant part of my PhD involved **biomedical applications**, including Multiple Sclerosis and Acute Kidney Injury prediction. I could incorporate clinical context to enhance the accuracy of Machine Learning models. Just as importantly, I valued the (alas, occasional) close collaboration with neurologists, urologists, and intensive-care physicians, and acted as a bridge between my computer-science peers and the clinicians.
+### [IntervalSHAP](https://github.com/KlestDedja/intervalSHAP)
 
-A smaller part of my PhD explored the intersection of **active learning** and **survival analysis**. There is certainly still plenty of methodological room to explore, but I am less convinced about the practical demand for such a niche combination. The resulting experiments and approaches are available in this [repository](https://github.com/KlestDedja/AL-SA-paper-material).
+A focused feature-attribution method for explaining time-to-event predictions over selected intervals. Will be released upon acceptance of the related paper.
 
-Finally, an unexpected side quest of my PhD involved automatically measuring fiber alignment in bio-artificial muscles, which gave me a hands-on familiarity with **computer vision** and image-processing techniques. The associated paper is under review, and another Python package is almost ready for release 😉. I see this project more as a successful technical excursion than something I plan to actively develop further.
+### [Active Learning for Survival Analysis](https://github.com/KlestDedja/AL-SA-paper-material)
 
-More about these projects, and how they cross-influence each other, can be found in my [dissertation](https://lirias.kuleuven.be/retrieve/dff3deaa-efd3-45e2-833c-e6db47d88434).
+Reproducible implementations and experiments for active learning with censored and incrementally disclosed outcomes.
 
-## 🔭 Projects
+### [EDGEHOG](https://github.com/KlestDedja/directionality)
 
-- **[BELLATREX](https://github.com/KlestDedja/Bellatrex)** · [PyPI](https://pypi.org/project/bellatrex/) — an explainable-AI toolbox for extracting representative rules from Random Forest ensembles across classification, regression, survival-analysis, multi-label, and multi-target problems.
+A computer-vision workflow for measuring fibre directionality and dispersion in biomedical images. To be released upon paper acceptance.
 
-  Do you like BELLATREX? I am looking for collaborators to make it better! If you have fresh ideas, feature requests, or are interested in contributing to new functionalities, I’d love to connect 😊.
+## Engineering toolkit
 
-  Keep an eye on the repository and don't forget to add a ⭐️
+| Area | Tools |
+| --- | --- |
+| Machine learning | Python, scikit-learn, scikit-survival, SHAP, XGBoost, PyTorch |
+| Data and experimentation | pandas, Polars, SciPy, statsmodels, Optuna, Nixtla |
+| AI applications | RAG, LLM evaluation, prompt engineering, Azure AI Foundry |
+| Software delivery | Git, GitHub Actions, Linux/Bash, SQL, React, C#, Terraform, Streamlit |
 
-- **[IntervalSHAP](https://github.com/KlestDedja/intervalSHAP)** — a fast and lean approach to explaining feature importance for time-to-event predictions across selected time intervals.
 
-- **[Active Learning for Survival Analysis](https://github.com/KlestDedja/AL-SA-paper-material)** — reproducible experiments for learning with censored and incrementally disclosed labels.
+## Explore more
 
-- **[EDGEHOG](https://github.com/KlestDedja/directionality)** — a computer-vision workflow for measuring fibre directionality and dispersion in biomedical images.
-
-## 🧰 Tools I often reach for
-
-- **Core:** Python is my strongest language, particularly for machine learning and research software. I work extensively with scikit-learn, scikit-survival, SHAP and XGBoost, and with pandas and Polars for data processing.
-- **Broader modelling toolkit:** I have used PyTorch more selectively, alongside tools such as SciPy, statsmodels, Nixtla, Optuna, LIME and scikit-image across forecasting, explainability and computer-vision projects.
-- **Application delivery:** At CGI, I am quickly broadening into an enterprise stack and delivering work with C# and Terraform, alongside React for front-end development. I also contribute to RAG retrieval, system-prompt engineering and automated LLM evaluation, use Azure DevOps for collaborative development, and have begun working with Azure AI Foundry.
-- **Open-source engineering:** Through [BELLATREX](https://github.com/KlestDedja/Bellatrex), I maintain tests, documentation, tutorials, PyPI releases and [GitHub Actions workflows](https://github.com/KlestDedja/Bellatrex/actions). I also work comfortably with Git, Bash/Linux, SQL and Streamlit.
-- **Earlier experience:** I used R in several projects earlier in my career, although it has not been part of my recent work.
-
-### 🌍 Beyond the job
-
-I am a mathematician by training and mindset, a multilingual European <img src="https://flagcdn.com/20x15/eu.png" width="18" height="14" alt="EU flag">, and something of a constructive idealist: I care about doing useful work, and I am most engaged when I can combine practical purpose with intellectual challenge and room to explore fresh ideas.
-
-Away from the screen, music is a recurring theme: I have sung in a choir, enjoy occasional karaoke sessions, and play the guitar. I am also a board-game enthusiast and a history geek, with [The Rest Is History](https://therestishistory.com/) and [Alessandro Barbero's history podcast](https://www.barberopodcast.it/) often on my listening list.
-
-That curiosity extends to news, politics, and economics: I follow [Breaking Italy](https://www.breakingitaly.it/) and enjoy [Capitalisn't](https://www.capitalisnt.com/) for its discussions of how markets, institutions, and power shape our lives.
-
-## 📫 How to reach me
-
-[LinkedIn](https://www.linkedin.com/in/klest-dedja/) · [Homepage](https://klestdedja.github.io/)
+- **[Portfolio and professional background](https://klestdedja.github.io/)**
+- **[Selected work with project context](https://klestdedja.github.io/repositories)**
+- **[Public CV](https://klestdedja.github.io/cv)**
+- **[LinkedIn](https://www.linkedin.com/in/klest-dedja/)**
