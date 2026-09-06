@@ -7,9 +7,11 @@ With a background in Mathematics, I gradually specialized  towards Software Deve
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Klest_Dedja-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/klest-dedja/)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Publications-4285f4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=SWJ2Y2cAAAAJ)
 
-My expetise includes financial engineering, machine learning, and software development. I currently work across enterprise RAG, LLM evaluation, retrieval, and application delivery; previously, I built and evaluated forecasting systems. For the fuller story about my work and background, visit **[my portfolio website](https://klestdedja.github.io/)**.
+My expertise spans **applied mathematics**, **machine learning**, and **software development**. I currently work across enterprise RAG, LLM evaluation, retrieval, and application delivery; previously, I built and evaluated forecasting systems. For the fuller story about my work and background, visit **[my portfolio website](https://klestdedja.github.io/)**.
 
 ## Featured software
+
+Here I are my main contributions to open-source projects, mainly built during my PhD years at KU Leuven.
 
 ### [BELLATREX](https://github.com/KlestDedja/Bellatrex) · [PyPI](https://pypi.org/project/bellatrex/)
 
@@ -24,13 +26,13 @@ An explainable-AI Python package that turns Random Forest predictions into a sma
 
 A focused feature-attribution method for explaining time-to-event predictions over selected intervals. Will be released upon acceptance of the related paper.
 
-### [Active Learning for Survival Analysis](https://github.com/KlestDedja/AL-SA-paper-material)
 
-Reproducible implementations and experiments for active learning with censored and incrementally disclosed outcomes.
+[//]: < [Active Learning for Survival Analysis](https://github.com/KlestDedja/AL-SA-paper-material)>
+[//]: <Reproducible implementations and experiments for active learning with censored and incrementally disclosed outcomes.>
 
 ### [EDGEHOG](https://github.com/KlestDedja/directionality)
 
-A computer-vision workflow for measuring fibre directionality and dispersion in biomedical images. To be released upon paper acceptance.
+A computer-vision workflow for measuring fibre directionality and dispersion in biomedical images.
 
 ## Engineering toolkit
 
@@ -45,6 +47,4 @@ A computer-vision workflow for measuring fibre directionality and dispersion in 
 ## Explore more
 
 - **[Portfolio and professional background](https://klestdedja.github.io/)**
-- **[Selected work with project context](https://klestdedja.github.io/repositories)**
-- **[Public CV](https://klestdedja.github.io/cv)**
 - **[LinkedIn](https://www.linkedin.com/in/klest-dedja/)**
