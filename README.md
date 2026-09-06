@@ -40,17 +40,11 @@ More about these projects, and how they cross-influence each other, can be found
 
 ### 🧰 Tools I often reach for
 
-<!--
-TODO before publishing: replace this flat list with calibrated groups.
-- Primary / strongest: [tools used independently and extensively; add evidence]
-- Proficient: [tools used substantially in delivered work]
-- Working experience: [tools used in a narrower scope, e.g. React front-end contributions]
-- Familiarity: [occasional exposure only]
-Prefer concrete context over vague ratings such as "expert" or star bars.
-Explicitly distinguish Python depth from React experience.
--->
-
-**Python, R, SQL, scikit-learn, scikit-survival, PyTorch, XGBoost, pandas, Polars, SHAP, GitHub Actions, Azure DevOps, and React.**
+- **Core:** Python is my strongest language, particularly for machine learning and research software. I work extensively with scikit-learn, scikit-survival, SHAP and XGBoost, and with pandas and Polars for data processing.
+- **Broader modelling toolkit:** I have used PyTorch more selectively, alongside tools such as SciPy, statsmodels, Nixtla, Optuna, LIME and scikit-image across forecasting, explainability and computer-vision projects.
+- **Application delivery:** At CGI, I have quickly broadened into an unfamiliar enterprise stack and delivered work with C#, Terraform and APIs, alongside React for front-end development. I also contribute to RAG retrieval, system-prompt engineering and automated LLM evaluation, use Azure DevOps for collaborative development, and have begun working with Azure AI Foundry.
+- **Open-source engineering:** Through [BELLATREX](https://github.com/KlestDedja/Bellatrex), I maintain tests, documentation, tutorials, PyPI releases and [GitHub Actions workflows](https://github.com/KlestDedja/Bellatrex/actions). I also work comfortably with Git, Bash/Linux, SQL and Streamlit.
+- **Earlier experience:** I used R in several projects earlier in my career, although it has not been part of my recent work.
 
 ### 🌍 Beyond the job
 
