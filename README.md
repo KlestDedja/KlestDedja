@@ -42,13 +42,13 @@ More about these projects, and how they cross-influence each other, can be found
 
 - **Core:** Python is my strongest language, particularly for machine learning and research software. I work extensively with scikit-learn, scikit-survival, SHAP and XGBoost, and with pandas and Polars for data processing.
 - **Broader modelling toolkit:** I have used PyTorch more selectively, alongside tools such as SciPy, statsmodels, Nixtla, Optuna, LIME and scikit-image across forecasting, explainability and computer-vision projects.
-- **Application delivery:** At CGI, I have quickly broadened into an unfamiliar enterprise stack and delivered work with C#, Terraform and APIs, alongside React for front-end development. I also contribute to RAG retrieval, system-prompt engineering and automated LLM evaluation, use Azure DevOps for collaborative development, and have begun working with Azure AI Foundry.
+- **Application delivery:** At CGI, I am quickly broadening into an enterprise stack and delivering work with C# and Terraform, alongside React for front-end development. I also contribute to RAG retrieval, system-prompt engineering and automated LLM evaluation, use Azure DevOps for collaborative development, and have begun working with Azure AI Foundry.
 - **Open-source engineering:** Through [BELLATREX](https://github.com/KlestDedja/Bellatrex), I maintain tests, documentation, tutorials, PyPI releases and [GitHub Actions workflows](https://github.com/KlestDedja/Bellatrex/actions). I also work comfortably with Git, Bash/Linux, SQL and Streamlit.
 - **Earlier experience:** I used R in several projects earlier in my career, although it has not been part of my recent work.
 
 ### 🌍 Beyond the job
 
-I am a mathematician by training and mindset, a multilingual European <img src="https://flagcdn.com/20x15/eu.png" width="18" height="14" alt="EU flag">, and something of a constructive idealist: I care about doing useful work, and I am most engaged when it combines practical purpose with intellectual challenge and room to explore fresh ideas.
+I am a mathematician by training and mindset, a multilingual European <img src="https://flagcdn.com/20x15/eu.png" width="18" height="14" alt="EU flag">, and something of a constructive idealist: I care about doing useful work, and I am most engaged when I can combine practical purpose with intellectual challenge and room to explore fresh ideas.
 
 Away from the screen, music is a recurring theme: I have sung in a choir, enjoy occasional karaoke sessions, and play the guitar. I am also a board-game enthusiast and a history geek, with [The Rest Is History](https://therestishistory.com/) and [Alessandro Barbero's history podcast](https://www.barberopodcast.it/) often on my listening list.
 
