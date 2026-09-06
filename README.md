@@ -40,14 +40,26 @@ More about these projects, and how they cross-influence each other, can be found
 
 ### 🧰 Tools I often reach for
 
+<!--
+TODO before publishing: replace this flat list with calibrated groups.
+- Primary / strongest: [tools used independently and extensively; add evidence]
+- Proficient: [tools used substantially in delivered work]
+- Working experience: [tools used in a narrower scope, e.g. React front-end contributions]
+- Familiarity: [occasional exposure only]
+Prefer concrete context over vague ratings such as "expert" or star bars.
+Explicitly distinguish Python depth from React experience.
+-->
+
 **Python, R, SQL, scikit-learn, scikit-survival, PyTorch, XGBoost, pandas, Polars, SHAP, GitHub Actions, Azure DevOps, and React.**
 
-### 🌍 Beyond the job title
+### 🌍 Beyond the job
 
-I am a mathematician by training and mindset, a multilingual European <img src="https://flagcdn.com/20x15/eu.png" width="18" height="14" alt="EU flag">, and something of a constructive idealist: I care about doing useful work well, while staying pragmatic about how good ideas become real improvements.
+I am a mathematician by training and mindset, a multilingual European <img src="https://flagcdn.com/20x15/eu.png" width="18" height="14" alt="EU flag">, and something of a constructive idealist: I care about doing useful work, and I am most engaged when it combines practical purpose with intellectual challenge and room to explore fresh ideas.
 
-Away from the screen, music is a recurring theme: I have sung in a choir, enjoy occasional karaoke sessions, and play the guitar. I am also a board-game enthusiast and a history geek.
+Away from the screen, music is a recurring theme: I have sung in a choir, enjoy occasional karaoke sessions, and play the guitar. I am also a board-game enthusiast and a history geek, with [The Rest Is History](https://therestishistory.com/) and [Alessandro Barbero's history podcast](https://www.barberopodcast.it/) often on my listening list.
+
+That curiosity extends to news, politics, and economics: I follow [Breaking Italy](https://www.breakingitaly.it/) and enjoy [Capitalisn't](https://www.capitalisnt.com/) for its discussions of how markets, institutions, and power shape our lives.
 
 ### 📫 How to reach me
 
-[Portfolio](https://klestdedja.github.io/) · [LinkedIn](https://www.linkedin.com/in/klest-dedja/) · [Google Scholar](https://scholar.google.com/citations?user=SWJ2Y2cAAAAJ) · [ORCID](https://orcid.org/0000-0001-5280-6717)
+[LinkedIn](https://www.linkedin.com/in/klest-dedja/) · [Homepage](https://klestdedja.github.io/)
